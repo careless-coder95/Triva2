@@ -19,7 +19,7 @@ from config import BOT_TOKEN
 # ==============================================================
 
 app = Client(
-    name="TivraPayBot",
+    name="Tivra2PayBot",
     bot_token=BOT_TOKEN,
     api_id=22815212,        # 👈 https://my.telegram.org se apna API ID daalo
     api_hash="7ff4abb86e8b8b6ac93bee9d4e55ee0d",  # 👈 https://my.telegram.org se apna API Hash daalo
