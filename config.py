@@ -3,7 +3,7 @@
 # ==============================================================
 
 # ── BOT TOKEN (BotFather se) ───────────────────────────────
-BOT_TOKEN = "1234567890:ABCxxx..."   # 👈 APNA TOKEN
+BOT_TOKEN = ""   # 👈 APNA TOKEN
 
 # ── BOT OWNER ─────────────────────────────────────────────
 OWNER_ID = 5864182070   # 👈 Apna user ID
@@ -27,28 +27,28 @@ ADMINS = [
 #
 REQUIRED_CHANNELS = [
     {
-        "_id":  -1003044540691,                   # 👈 Pehle channel ka numeric ID
-        "link": "https://t.me/+aCTkFFeWvnhhNjg1", # 👈 Pehle channel ka invite link
-    },
-    {
-        "_id":  -1003553730476,                   # 👈 Doosre channel ka numeric ID
-        "link": "https://t.me/+ArNqBUy9OAw2OGE1", # 👈 Doosre channel ka invite link
-    },
-    {
-        "_id":  -1003557913263,                   # 👈 Pehle channel ka numeric ID
-        "link": "https://t.me/+7bLILMq4tZg3Y2Y1", # 👈 Pehle channel ka invite link
+        "_id":  -1003631093100,                   # 👈 Pehle channel ka numeric ID
+        "link": "http://t.me/+JGntuGUw1PNhYTQ1", # 👈 Pehle channel ka invite link
     },
     {
         "_id":  -1003689288663,                   # 👈 Doosre channel ka numeric ID
-        "link": "https://t.me/+7MkBUP4QUTg1OTc1", # 👈 Doosre channel ka invite link
+        "link": "https://t.me/+ZEKN9bI5SEs2MWI1", # 👈 Doosre channel ka invite link
     },
     {
-        "_id":  -1003631093100,                   # 👈 Doosre channel ka numeric ID
-        "link": "https://t.me/+JGntuGUw1PNhYTQ1", # 👈 Doosre channel ka invite link
+        "_id":  -1003553730476,                   # 👈 Pehle channel ka numeric ID
+        "link": "https://t.me/+6O8azZGJnfs1NzI1", # 👈 Pehle channel ka invite link
     },
+    {
+        "_id":  -1003557913263,                   # 👈 Doosre channel ka numeric ID
+        "link": "https://t.me/+5IfvnTixCKowNjI1", # 👈 Doosre channel ka invite link
+    },
+    #{
+    #    "_id":  -1003631093100,                   # 👈 Doosre channel ka numeric ID
+    #    "link": "https://t.me/+JGntuGUw1PNhYTQ1", # 👈 Doosre channel ka invite link
+   # },
     
 ]
 
 # ── WELCOME IMAGES ─────────────────────────────────────────
-WELCOME_IMAGE_BEFORE = "https://o.uguu.se/ZnvqCTFv.jpg"  # 👈 Force join se pehle wali image
-WELCOME_IMAGE_AFTER  = "https://o.uguu.se/ZnvqCTFv.jpg"  # 👈 Verify ke baad wali image
+WELCOME_IMAGE_BEFORE = "https://h.uguu.se/BLmLEyuE.jpg"  # 👈 Force join se pehle wali image
+WELCOME_IMAGE_AFTER  = "https://h.uguu.se/BLmLEyuE.jpg"  # 👈 Verify ke baad wali image
