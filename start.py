@@ -24,12 +24,12 @@ TASK_CHANNELS = [
         "link": "https://t.me/+JGntuGUw1PNhYTQ1",   # 👈 Apna link daalo
     },
     {
-        "link": "https://t.me/+RpTKZ1_u3mk5NDFl",   # 👈 Apna link daalo
+        "link": "https://t.me/DailyxCash_bot",   # 👈 Apna link daalo
     },
 ]
 
 # Task & Earn image
-TASK_IMAGE = "https://d.uguu.se/tAPsvZHq.jpg"  # 👈 Task wali image ka file_id
+TASK_IMAGE = "https://h.uguu.se/JlplEBBj.jpg"  # 👈 Task wali image ka file_id
 
 # Refer & Earn image
 REFER_IMAGE = "https://d.uguu.se/frcApBNr.jpg"  # 👈 Refer wali image ka file_id yahan daalo
@@ -38,11 +38,11 @@ REFER_IMAGE = "https://d.uguu.se/frcApBNr.jpg"  # 👈 Refer wali image ka file_
 # 🔴 IMPORTANT VALUES 
 # ==============================================================
 
-title="𝗗𝗔𝗜𝗟𝗬 𝗖𝗔𝗦𝗛"     # bot name
-rafer="https://t.me/DailyxCash_bot"       #rafer link [ bot link ]
+title="𝗨𝗣𝗜 𝗘𝗔𝗥𝗡𝗜𝗡𝗚"     # bot name
+rafer="https://t.me/"       #rafer link [ bot link ]
 username="dj_alok777"        #admin username without @
 support=""         #support group username without @
-bot_username="DailyxCash_bot"  #bot username without @
+bot_username="UPIx_Earning_Bot"  #bot username without @
 rafer_app="https://h5.sw-smart2.com?invite=NMY42ZRL"    # rafer app link 
 
 
